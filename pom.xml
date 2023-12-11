@@ -9,7 +9,7 @@
 	
 	<!-- Demo on Github Webhooks-->
 
-	<url>http://maven.apache.org</url>
+	<url>https://repo.maven.apache.org/maven2</url>
 
 	<dependencies>
 		<dependency>
